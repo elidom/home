@@ -1,3 +1,6 @@
+---
+title: Research
+---
 ## Current Projects:
 
 Under Construction...
