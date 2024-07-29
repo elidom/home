@@ -13,8 +13,8 @@ Experience shapes the brain. What is more, numerous research groups have shown t
 A strength of this study is that we used and compared two cortical thickness estimation pipelines: CIVET and FreeSurfer. Both methods provided evidence of a statistically significant difference between psychotherapists and non-therapists in the left dorsolateral prefrontal cortex (dlPFC). This finding is meaningful because the dlPFC plays a crucial role in emotion regulation and cognitive empathy processes (e.g., empathic perspective-taking). Moreover, a structural covariance analysis revealed that in psychotherapists, the cortical thickness in this region varied relatively independently from the rest of the cortex. This research has been published as an article, which you can find [here](https://doi.org/10.1007/s10548-022-00910-3).
 
 ![Structural Covariance](assets/img/CT_StrCov_Psychotherapists.png)
-      Structural covariance. **A** - Vertices significantly correlated with dlPFC seed vertex (FDR corrected at 5%) in each group.  
-      **B** - Pearson’s r statistical map showing how a dlPFC seed vertex correlates with the rest of the vertices in the left hemisphere.
+      _**Structural covariance**: **A.** Vertices significantly correlated with dlPFC seed vertex (FDR corrected at 5%) in each group.  
+      **B.** - Pearson’s r statistical map showing how a dlPFC seed vertex correlates with the rest of the vertices in the left hemisphere._
 
 
 
