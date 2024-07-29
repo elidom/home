@@ -20,7 +20,6 @@ A strength of this study is that we used and compared two cortical thickness est
 </figure>
 
 
-![A - Vertices significantly correlated with dlPFC seed vertex (FDR corrected at 5%) in each group. B - Pearson’s r statistical map showing how a dlPFC seed vertex correlates with the rest of the vertices in the left hemisphere](assets/img/CT_StrCov_Psychotherapists.png)
 
 
 
