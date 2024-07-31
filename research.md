@@ -3,7 +3,10 @@ title: Research
 ---
 ## Current Projects:
 
-Under Construction...
+### The Perception of Value in Spoken Interactions
+
+We tend to find some conversations more memorable and certain conversation partners more engaging than others. Just as we have preferences for different music styles, we also have preferences for certain speaking styles over others. As speakers, we understand this, at least implicitly. Through the way we speak, we can convey information about our dispositions and emotional states. For example, we may adjust our speech if we aim to foster a positive and sustained interaction with someone, as opposed to when we want it to end as soon as possible. This may then have consequences on the behavioral and cognitive dynamics of the interaction. My PhD thesis is concerned with this. Namely, how we perceive value in everyday conversations. Some of the questions driving my research are: How can we approximate the perceived value of conversational speech? What constitutes an engaging spoken interaction? What is the relative contribution of semantics and prosody to the perceived value of conversational utterances? Is inter-speaker biobehavioral synchrony linked to a more valued interaction?
+
 
 ## Past Projects:
 
