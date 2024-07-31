@@ -7,6 +7,10 @@ title: Research
 
 We tend to find some conversations more memorable and certain conversation partners more engaging than others. Just as we have preferences for different music styles, we also have preferences for certain speaking styles over others. As speakers, we understand this, at least implicitly. Through the way we speak, we can convey information about our dispositions and emotional states. For example, we may adjust our speech if we aim to foster a positive and sustained interaction with someone, as opposed to when we want it to end as soon as possible. This may then have consequences on the behavioral and cognitive dynamics of the interaction. My PhD thesis is concerned with this. Namely, how we perceive value in everyday conversations. Some of the questions driving my research are: How can we approximate the perceived value of conversational speech? What constitutes an engaging spoken interaction? What is the relative contribution of semantics and prosody to the perceived value of conversational utterances? Is inter-speaker biobehavioral synchrony linked to a more valued interaction?
 
+### The Neurocognitive Responses to Praise and Critique in Foreign-Accented Speech
+
+Effective emotional communication is a crucial part of our social life and has a significant impact on how we interact with others and make decisions. This involves having the capacity to praise and, on occasion, criticize others. However, in societies where interactions increasingly occur across cultural and linguistic boundaries, a foreign accent can add a layer of complexity to these types of communication. Indeed, recent evidence suggests that the presence of a foreign accent triggers biased neurocognitive processing of speech due, potentially, to the effects of social categorization, implicit bias, and processing fluency. There is also evidence that the linguistic context, including the speaker's accent, influences the perceived emotionality of spoken utterances.
+
 
 ## Past Projects:
 
