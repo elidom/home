@@ -1,5 +1,6 @@
 ---
 title: Posters and Presentations
+cover-img: ["assets/img/presentation_shot_comps.jpeg", "assets/img/presentation_shot_amlap.jpg"]
 ---
 
 ## Posters
@@ -18,4 +19,4 @@ Phillips, N., **Domínguez-Arriola, M.E.**, Rodin, J., & Polka, L. (2024, July 8
 
 ![](assets/img/presentation_shot_comps.jpeg)
 
-![](presentation_shot_amlap.jpg)
+![](assets/img/presentation_shot_amlap.jpg)
