@@ -1,6 +1,6 @@
 ---
 title: Posters and Presentations
-cover-img: ["assets/img/presentation_shot_comps.jpeg", "assets/img/presentation_shot_amlap.jpg"]
+cover-img: ["assets/img/presentation_shot_comps.jpeg"]
 ---
 
 ## Posters
@@ -17,6 +17,5 @@ Phillips, N., **Domínguez-Arriola, M.E.**, Rodin, J., & Polka, L. (2024, July 8
 
 **Domínguez-Arriola, M.E.** (2021, July 1). *Correlatos Neuroestructurales de la Respuesta Empática en Terapeutas* \[Presentation\]. Master's Thesis Defense, Instituto de Neurobiología, Universidad Nacional Autónoma de México, Mexico. [Slides Available](https://docs.google.com/presentation/d/1e5agwid_jm9kQFAUrn0z9mV0WVvIZF7M7l2peHDQej4/edit?usp=sharing). 
 
-![](assets/img/presentation_shot_comps.jpeg)
-
 ![](assets/img/presentation_shot_amlap.jpg)
+*Architectures and Mechanisms for Language Processing, 2023*
