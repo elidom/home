@@ -21,3 +21,5 @@ I aim to collaborate with leading experts and contribute to innovative research 
 
 ### Connect With Me:
 If you know of opportunities that might fit my profile, please reach out. I am open to positions in North America, Europe, and Oceania.
+
+📧 **Email:** marcos.dominguezarriola@mail.mcgill.ca
