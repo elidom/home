@@ -29,7 +29,7 @@ navbar-links:
   More:
     - Posters + Slides: "posters_presentations"
     - CV: "cv"
-  Home: "https://elidom.github.io/personal-website3/"
+  Home: "https://elidom.github.io/home/"
 
 ################
 # --- Logo --- #
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://elidom.github.io/personal-website3/"
+url-pretty: "https://elidom.github.io/home/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
