@@ -27,7 +27,7 @@ navbar-links:
     - Data Viz: "dataviz"
     - Lab Wiki: "wiki"
   More:
-    - Posters and Presentations: "posters_presentations"
+    - Posters + Slides: "posters_presentations"
     - CV: "cv"
   Home: "https://elidom.github.io/personal-website3/"
 
