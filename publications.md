@@ -4,6 +4,7 @@ title: Publications
 ---
 
 #### In Preparation:
+- **Domínguez-Arriola, M. E.** & Pell, M. D. (in preparation). Tell me more! On the Perceived Social Value of Engaging Conversations.
 - **Domínguez-Arriola, M. E.**, Bazzi, L., Mauchand, M., Foucart, A., & Pell, M. D. (in preparation). “You Are So Boring”: Neurocognitive responses to compliments and criticisms in foreign-accented speech.
 
 
