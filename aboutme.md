@@ -10,6 +10,8 @@ I grew up in the beautiful city of Guadalajara, Mexico — the cradle of mariach
 
 In 2019, I was accepted into the Institute of Neurobiology (INB) at the National Autonomous University of Mexico (UNAM) to pursue a master’s degree in neurobiology. I worked under the supervision of Dr. Fernando Barrios to look at the brain structural correlates of emotion regulation and empathic skills in psychotherapists using magnetic resonance imaging (MRI). I developed a passion for neuroimaging, coding, and data analysis during this time. 
 
+Immediatly after obtaining my master's degree, I started a PhD 
+
 Toward the end of the program, I was accepted into three PhD programs: at the Hong Kong Polytechnic University, the Berlin School of Mind and Brain, and McGill University. I decided to attend McGill in Montreal and study Communication Sciences and Disorders (and the complementary Language Acquisition Program). The program's structure and the opportunity to delve into speech and language, combined with the fascinating research by Dr. Pell's team, strongly influenced my choice. I also thought that completing this program would give me the academic profile I aspired to have, allowing me to combine my background in psychology, neurobiology, and communication sciences to research social cognition and interaction.
 
 ### Teaching
