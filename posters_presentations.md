@@ -4,6 +4,7 @@ cover-img: ["assets/img/presentation_shot_comps.jpeg"]
 ---
 
 ## Posters
+\[Upcoming\] **Domínguez-Arriola, M.E.**, Pérez, A., & Pell, M. (2025) Tell Me More! Investigating Value Perception in Conversation Through Cortical Entrainment. Social & Affective Neuroscience Society Conference 2025
 
 Phillips, N., **Domínguez-Arriola, M.E.**, Rodin, J., & Polka, L. (2024, July 8). *How sampling affects lexical analysis of bilingual infant-directed speech in daylong audio recordings: A pilot study* \[Poster Presentation\]. International Congress of Infant Studies (ICIS) XXIV, Glasgow, Scotland. [Available Here](https://www.researchgate.net/publication/382591520_How_sampling_affects_lexical_analysis_of_bilingual_infant-directed_speech_in_daylong_audio_recordings_A_pilot_study).
 
@@ -12,6 +13,7 @@ Phillips, N., **Domínguez-Arriola, M.E.**, Rodin, J., & Polka, L. (2024, July 8
 **Domínguez-Arriola, M.E.**, Olalde-Mathieu, V.E., Garza-Villarreal, E.A., & Barrios, F.A. (2021, June 1). *The Dorsolateral Prefrontal Cortex Presents Structural Variations Associated With Empathic Capacity in Psychotherapists* \[Poster Presentation\]. Organization for Human Brain Mapping 27th Annual Meeting, Virtual Conference. [Available Here](https://github.com/elidom/personal-website3/blob/master/assets/poster_ohbm_2021.pdf).
 
 ## Presentations
+**Domínguez-Arriola, M.E.** (2025, February 21st). *Tell Me More! Investigating Value Perception in Conversation Through Cortical Speech Tracking*. \[Presentation\]. School of Communication Sciences and Disorders Research Day, McGill University, Montreal, Canada. [Slides Available](https://mcgill-my.sharepoint.com/:p:/g/personal/marcos_dominguezarriola_mail_mcgill_ca/EaWMzucKDxNKj477z2v5X-ABtrZcEo0d1HqNXUAw-A2ZDg?e=RmDQo5).
 
 **Domínguez-Arriola, M.E.** (2022, October 20th). *The Role of Interactive and Sociopragmatic Competence in Second Language Competence Development* \[Presentation\]. PhD Comprehensive Exam, McGill University, Montreal, Canada. [Slides Available](https://shorturl.at/nS6sc).
 
