@@ -4,7 +4,7 @@ title: Publications
 ---
 
 #### Preprints:
-- **Domínguez-Arriola, M. E.** & Pell, M. D. (*Under Review*). Not worth my time! Understanding factors that make conversations engaging. *PsyArXiv*. [https://osf.io/preprints/psyarxiv/j8tw5_v1](https://osf.io/preprints/psyarxiv/j8tw5_v1)
+- **Domínguez-Arriola, M. E.** & Pell, M. D. (*Under Review*). Not worth my time! Understanding factors that make conversations engaging. *PsyArXiv*. [https://doi.org/10.31234/osf.io/j8tw5_v1](https://doi.org/10.31234/osf.io/j8tw5_v1)
 
 - **Domínguez-Arriola, M. E.**, Bazzi, L., Mauchand, M., Foucart, A., & Pell, M. D. (*Under Review*). Does criticism in a foreign accent hurt less? *PsyArXiv*. [https://doi.org/10.31234/osf.io/rj9wa_v1](https://doi.org/10.31234/osf.io/rj9wa_v1)
 
