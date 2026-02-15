@@ -5,7 +5,7 @@ subtitle: (Vancouver, Canada)
 thumbnail-img: /assets/img/van.jpg
 ---
 
-Excited to share that I’ll be at the [Cognitive Neuroscience Society 2026 Annual Meeting](www.cogneurosociety.org/annual-meeting/) in Vancouver, where I’ll be presenting both a blitz talk and a poster. I’ll be sharing recent work from my PhD on how the brain encodes speech during real-time, naturalistic conversations of varying interactional quality.
+Excited to share that I’ll be at the [Cognitive Neuroscience Society 2026 Annual Meeting](https://www.cogneurosociety.org/annual-meeting/) in Vancouver, where I’ll be presenting both a blitz talk and a poster. I’ll be sharing recent work from my PhD on how the brain encodes speech during real-time, naturalistic conversations of varying interactional quality.
 
 I’d love to connect and exchange ideas.
 
