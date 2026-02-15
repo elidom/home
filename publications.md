@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-#### Preprints:
-- **Domínguez-Arriola, M. E.** & Pell, M. D. (*Under Review*). Not worth my time! Understanding factors that make conversations engaging. *PsyArXiv*. [https://doi.org/10.31234/osf.io/j8tw5_v1](https://doi.org/10.31234/osf.io/j8tw5_v1)
+#### In press:
+- **Domínguez-Arriola, M. E.** & Pell, M. D. (*in press*). Not worth my time! Understanding factors that make conversations engaging. *Journal of Experimental Psychology: Human Perception and Performance*. [https://doi.org/10.1037/xhp0001410](https://doi.org/10.1037/xhp0001410)
 
 #### 2025:
 
