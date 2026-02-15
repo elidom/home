@@ -3,7 +3,7 @@ title: Research
 ---
 ## Current Projects:
 
-### The Perception of Value in Spoken Interactions
+### From What We Value to How We Coordinate in Conversation
 
 We tend to find some conversations more enjoyable and certain conversation partners more engaging than others. Similar to our preferences for various types of music, we also favor certain conversation topics and speaking styles. As speakers, we implicitly know that through the way we speak, we can convey information about our relational dispositions and affective states (e.g., [Coker & Burgoon, 1987](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2958.1987.tb00115.x); [Pell & Kotz, 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027256)). For example, we may adjust our vocal characteristics if we aim to foster a positive and sustained interaction with someone, as opposed to when we want it to end as soon as possible. This may then have consequences on the behavioral and cognitive dynamics of the interaction ([Pérez & Davis, 2023](https://www.sciencedirect.com/science/article/pii/S0010945222003252)). My PhD research focuses on **understanding how we perceive and respond to the social value of everyday conversations**, using a combination of behavioral, neuroimaging, and two-person methodologies across three studies.
 
