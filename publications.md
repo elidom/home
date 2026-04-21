@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-#### In press:
-- **Domínguez-Arriola, M. E.** & Pell, M. D. (*in press*). Not worth my time! Understanding factors that make conversations engaging. *Journal of Experimental Psychology: Human Perception and Performance*. [https://doi.org/10.1037/xhp0001410](https://doi.org/10.1037/xhp0001410)
+#### 2026:
+- **Domínguez-Arriola, M. E.** & Pell, M. D. (2026). Not worth my time! Understanding factors that make speech socially engaging engaging. *Journal of Experimental Psychology: Human Perception and Performance*. Online First. [https://doi.org/10.1037/xhp0001410](https://doi.org/10.1037/xhp0001410)
 
 #### 2025:
 
