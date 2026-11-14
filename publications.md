@@ -4,7 +4,12 @@ title: Publications
 ---
 
 #### 2026:
-- **Domínguez-Arriola, M. E.** & Pell, M. D. (2026). Not worth my time! Understanding factors that make speech socially engaging engaging. *Journal of Experimental Psychology: Human Perception and Performance*. Online First. [https://doi.org/10.1037/xhp0001410](https://doi.org/10.1037/xhp0001410)
+
+- **Domínguez-Arriola, M. E.**, Pérez, A., & Pell, M. D. (In press). Neural tracking of continuous speech is sensitive to socially “engaging” prosodic features of conversational anecdotes. *Psychophysiology*. DOI: 10.1111/psyp.70460
+
+- **Domínguez-Arriola, M. E.**, Lam, P. C. H., Pérez, A., & Pell, M. D. (2026). Interpersonal neural coordination tracks interaction quality during naturalistic conversation. *NeuroImage, 338*, Article 122090. [https://doi.org/10.1016/j.neuroimage.2026.122090](https://doi.org/10.1016/j.neuroimage.2026.122090)
+
+- **Domínguez-Arriola, M. E.** & Pell, M. D. (2026). Not worth my time! Understanding factors that make speech socially engaging engaging. *Journal of Experimental Psychology: Human Perception and Performance*, 52(5), 672–692. [https://doi.org/10.1037/xhp0001410](https://doi.org/10.1037/xhp0001410)
 
 #### 2025:
 
