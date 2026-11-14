@@ -25,7 +25,6 @@ navbar-links:
   Publications: "publications"
   Resources:
     - Data Viz: "dataviz"
-    - Lab Wiki: "wiki"
   More:
     - Posters + Slides: "posters_presentations"
     - CV: "cv"
